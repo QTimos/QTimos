@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-line.svg)" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
